@@ -4,6 +4,8 @@ class Demo{
 
     public static void main(String[]args){
 
+        //tinaj
+
         Demo demo = new Demo();
 
         demo.print("wangbin", 30);
